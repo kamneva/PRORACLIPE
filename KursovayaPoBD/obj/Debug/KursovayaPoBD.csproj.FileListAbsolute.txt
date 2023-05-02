@@ -1,0 +1,13 @@
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\bin\Debug\Database.mdf
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\bin\Debug\Database_log.ldf
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\bin\Debug\KursovayaPoBD.exe.config
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\bin\Debug\KursovayaPoBD.exe
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\bin\Debug\KursovayaPoBD.pdb
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\obj\Debug\KursovayaPoBD.Form1.resources
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\obj\Debug\KursovayaPoBD.Properties.Resources.resources
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\obj\Debug\KursovayaPoBD.csproj.GenerateResource.cache
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\obj\Debug\KursovayaPoBD.csproj.CoreCompileInputs.cache
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\obj\Debug\KursovayaPoBD.exe
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\obj\Debug\KursovayaPoBD.pdb
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\obj\Debug\KursovayaPoBD.csproj.AssemblyReference.cache
+C:\Users\olech\source\repos\KursovayaPoBD\KursovayaPoBD\obj\Debug\KursovayaPoBD.csproj.SuggestedBindingRedirects.cache
